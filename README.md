@@ -1,2 +1,2 @@
-# django_rest_authentication
-API for user authentication
+# Sente Yo authentication api
+
